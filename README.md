@@ -1,0 +1,2 @@
+# Magnetics
+Inductor designs
